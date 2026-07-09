@@ -360,13 +360,13 @@ AI_TEMPERATURE=0.3
 AI_MAX_TOKENS=2000
 
 # CORS
-CORS_ORIGIN=http://localhost:5173
+CORS_ORIGIN=bio-twin-qqs3qf31w-riyaavermas-projects.vercel.app
 ```
 
 #### Frontend (`frontend/.env`)
 
 ```env
-VITE_API_BASE_URL=http://localhost:5000/api
+VITE_API_BASE_URL=https://bio-twin-1.onrender.com
 ```
 
 ### Running the Application
